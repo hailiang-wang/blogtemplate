@@ -14,7 +14,12 @@
     "dist",
     "node_moduels",
     "min.js",
-    "public"
+    "public",
+    "_build/",
+    "_public/",
+    "_config.yml",
+    "_config.local.yml",
+    "_config.next.yml"
   ],
   "promptDelete": false,
   "livePreview": false,
