@@ -27,4 +27,3 @@ some code
 import os
 ```
 
-==yellow hightlight==
