@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Foo Bar</title>
+    <url>/2021/05/12/foobar/</url>
+    <content><![CDATA[<p>hello foo</p>
+<p><img src="/../media/assets/screenshot_20250208121241.png"></p>
+<p><img src="/../media/assets/screenshot_20250208125746.png"></p>
+]]></content>
+      <categories>
+        <category>notes</category>
+      </categories>
+      <tags>
+        <tag>Open</tag>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/05/12/hello/</url>
+    <content><![CDATA[<h2 id="HelloWorld"><a href="#HelloWorld" class="headerlink" title="HelloWorld"></a>HelloWorld</h2><p>Hello</p>
+]]></content>
+      <categories>
+        <category>notes</category>
+      </categories>
+      <tags>
+        <tag>Open</tag>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
+</search>
