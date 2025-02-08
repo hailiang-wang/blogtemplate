@@ -8,10 +8,23 @@ tags:
     - Diary
 ---
 
-hello foo
+## hello foo
 
 ![](../media/assets/screenshot_20250208121241.png)
 
 ![](../media/assets/screenshot_20250208125746.png)
 
 ![](../media/assets/screenshot_20250208140647.png)
+
+
+## header 2
+
+### header 3
+
+some code
+
+```
+import os
+```
+
+==yellow hightlight==
