@@ -6,7 +6,7 @@
   <link href="https://hailiang-wang.github.io/blogtemplate/atom.xml" rel="self"/>
   
   <link href="https://hailiang-wang.github.io/blogtemplate/"/>
-  <updated>2025-02-08T05:34:47.620Z</updated>
+  <updated>2025-02-08T05:56:45.196Z</updated>
   <id>https://hailiang-wang.github.io/blogtemplate/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://hailiang-wang.github.io/blogtemplate/2021/05/12/foobar/"/>
     <id>https://hailiang-wang.github.io/blogtemplate/2021/05/12/foobar/</id>
     <published>2021-05-12T00:00:00.000Z</published>
-    <updated>2025-02-08T05:34:47.620Z</updated>
+    <updated>2025-02-08T05:56:45.196Z</updated>
     
-    <content type="html"><![CDATA[<p>hello foo</p><p><img src="/blogtemplate/../media/assets/screenshot_20250208121241.png"></p><p><img src="/blogtemplate/../media/assets/screenshot_20250208125746.png"></p>]]></content>
+    <content type="html"><![CDATA[<p>hello foo</p><p><img src="/blogtemplate/media/assets/screenshot_20250208121241.png"></p><p><img src="/blogtemplate/media/assets/screenshot_20250208125746.png"></p>]]></content>
     
     
       
@@ -31,7 +31,7 @@
         
         
     <summary type="html">&lt;p&gt;hello foo&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/blogtemplate/../media/assets/screenshot_20250208121241.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blogtemplate/media/assets/screenshot_20250208121241.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img</summary>
         
       
@@ -52,7 +52,7 @@
     <link href="https://hailiang-wang.github.io/blogtemplate/2021/05/12/hello/"/>
     <id>https://hailiang-wang.github.io/blogtemplate/2021/05/12/hello/</id>
     <published>2021-05-12T00:00:00.000Z</published>
-    <updated>2025-02-08T05:34:47.620Z</updated>
+    <updated>2025-02-08T05:56:45.197Z</updated>
     
     <content type="html"><![CDATA[<h2 id="HelloWorld"><a href="#HelloWorld" class="headerlink" title="HelloWorld"></a>HelloWorld</h2><p>Hello</p>]]></content>
     

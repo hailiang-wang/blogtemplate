@@ -4,8 +4,8 @@
     <title>Foo Bar</title>
     <url>/blogtemplate/2021/05/12/foobar/</url>
     <content><![CDATA[<p>hello foo</p>
-<p><img src="/blogtemplate/../media/assets/screenshot_20250208121241.png"></p>
-<p><img src="/blogtemplate/../media/assets/screenshot_20250208125746.png"></p>
+<p><img src="/blogtemplate/media/assets/screenshot_20250208121241.png"></p>
+<p><img src="/blogtemplate/media/assets/screenshot_20250208125746.png"></p>
 ]]></content>
       <categories>
         <category>notes</category>
