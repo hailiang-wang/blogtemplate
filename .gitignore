@@ -4,7 +4,9 @@ db.json
 *.log
 node_modules/
 public/
+_public/
 .deploy*/
+_build
 
 package-lock.json
 yarn.lock
