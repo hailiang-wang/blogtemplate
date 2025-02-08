@@ -1,5 +1,5 @@
-https://hailiang-wang.github.io/blogtemplate/2021/05/12/hello/
-https://hailiang-wang.github.io/blogtemplate/2021/05/12/foobar/
+https://hailiang-wang.github.io/blogtemplate/2021/05/11/hello/
+https://hailiang-wang.github.io/blogtemplate/2021/05/11/foobar/
 https://hailiang-wang.github.io/blogtemplate/tags/index.html
 https://hailiang-wang.github.io/blogtemplate/categories/index.html
 https://hailiang-wang.github.io/blogtemplate
