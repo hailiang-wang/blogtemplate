@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BlogTemplate</title>
-  <icon>https://blogtemplate.github.io/BlogTemplate/images/favicon-32x32-next.png</icon>
+  <icon>https://hailiang-wang.github.io/blogtemplate/BlogTemplate/images/favicon-32x32-next.png</icon>
   <subtitle>BlogTemplate Subtitle</subtitle>
-  <link href="https://blogtemplate.github.io/atom.xml" rel="self"/>
+  <link href="https://hailiang-wang.github.io/blogtemplate/atom.xml" rel="self"/>
   
-  <link href="https://blogtemplate.github.io/"/>
-  <updated>2025-02-08T05:24:20.249Z</updated>
-  <id>https://blogtemplate.github.io/</id>
+  <link href="https://hailiang-wang.github.io/blogtemplate/"/>
+  <updated>2025-02-08T05:34:47.620Z</updated>
+  <id>https://hailiang-wang.github.io/blogtemplate/</id>
   
   <author>
     <name>BlogTemplate Authors</name>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>Foo Bar</title>
-    <link href="https://blogtemplate.github.io/2021/05/12/foobar/"/>
-    <id>https://blogtemplate.github.io/2021/05/12/foobar/</id>
+    <link href="https://hailiang-wang.github.io/blogtemplate/2021/05/12/foobar/"/>
+    <id>https://hailiang-wang.github.io/blogtemplate/2021/05/12/foobar/</id>
     <published>2021-05-12T00:00:00.000Z</published>
-    <updated>2025-02-08T05:24:20.249Z</updated>
+    <updated>2025-02-08T05:34:47.620Z</updated>
     
-    <content type="html"><![CDATA[<p>hello foo</p><p><img src="/../media/assets/screenshot_20250208121241.png"></p><p><img src="/../media/assets/screenshot_20250208125746.png"></p>]]></content>
+    <content type="html"><![CDATA[<p>hello foo</p><p><img src="/blogtemplate/../media/assets/screenshot_20250208121241.png"></p><p><img src="/blogtemplate/../media/assets/screenshot_20250208125746.png"></p>]]></content>
     
     
       
@@ -31,28 +31,28 @@
         
         
     <summary type="html">&lt;p&gt;hello foo&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/../media/assets/screenshot_20250208121241.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blogtemplate/../media/assets/screenshot_20250208121241.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img</summary>
         
       
     
     
     
-    <category term="notes" scheme="https://blogtemplate.github.io/categories/notes/"/>
+    <category term="notes" scheme="https://hailiang-wang.github.io/blogtemplate/categories/notes/"/>
     
     
-    <category term="Open" scheme="https://blogtemplate.github.io/tags/Open/"/>
+    <category term="Open" scheme="https://hailiang-wang.github.io/blogtemplate/tags/Open/"/>
     
-    <category term="Diary" scheme="https://blogtemplate.github.io/tags/Diary/"/>
+    <category term="Diary" scheme="https://hailiang-wang.github.io/blogtemplate/tags/Diary/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blogtemplate.github.io/2021/05/12/hello/"/>
-    <id>https://blogtemplate.github.io/2021/05/12/hello/</id>
+    <link href="https://hailiang-wang.github.io/blogtemplate/2021/05/12/hello/"/>
+    <id>https://hailiang-wang.github.io/blogtemplate/2021/05/12/hello/</id>
     <published>2021-05-12T00:00:00.000Z</published>
-    <updated>2025-02-08T05:24:20.249Z</updated>
+    <updated>2025-02-08T05:34:47.620Z</updated>
     
     <content type="html"><![CDATA[<h2 id="HelloWorld"><a href="#HelloWorld" class="headerlink" title="HelloWorld"></a>HelloWorld</h2><p>Hello</p>]]></content>
     
@@ -67,12 +67,12 @@
     
     
     
-    <category term="notes" scheme="https://blogtemplate.github.io/categories/notes/"/>
+    <category term="notes" scheme="https://hailiang-wang.github.io/blogtemplate/categories/notes/"/>
     
     
-    <category term="Open" scheme="https://blogtemplate.github.io/tags/Open/"/>
+    <category term="Open" scheme="https://hailiang-wang.github.io/blogtemplate/tags/Open/"/>
     
-    <category term="Diary" scheme="https://blogtemplate.github.io/tags/Diary/"/>
+    <category term="Diary" scheme="https://hailiang-wang.github.io/blogtemplate/tags/Diary/"/>
     
   </entry>
   

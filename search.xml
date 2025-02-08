@@ -2,10 +2,10 @@
 <search>
   <entry>
     <title>Foo Bar</title>
-    <url>/2021/05/12/foobar/</url>
+    <url>/blogtemplate/2021/05/12/foobar/</url>
     <content><![CDATA[<p>hello foo</p>
-<p><img src="/../media/assets/screenshot_20250208121241.png"></p>
-<p><img src="/../media/assets/screenshot_20250208125746.png"></p>
+<p><img src="/blogtemplate/../media/assets/screenshot_20250208121241.png"></p>
+<p><img src="/blogtemplate/../media/assets/screenshot_20250208125746.png"></p>
 ]]></content>
       <categories>
         <category>notes</category>
@@ -17,7 +17,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2021/05/12/hello/</url>
+    <url>/blogtemplate/2021/05/12/hello/</url>
     <content><![CDATA[<h2 id="HelloWorld"><a href="#HelloWorld" class="headerlink" title="HelloWorld"></a>HelloWorld</h2><p>Hello</p>
 ]]></content>
       <categories>

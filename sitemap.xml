@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blogtemplate.github.io/tags/index.html</loc>
+    <loc>https://hailiang-wang.github.io/blogtemplate/tags/index.html</loc>
     
     <lastmod>2025-02-08</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blogtemplate.github.io/categories/index.html</loc>
+    <loc>https://hailiang-wang.github.io/blogtemplate/categories/index.html</loc>
     
     <lastmod>2025-02-08</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://blogtemplate.github.io/2021/05/12/foobar/</loc>
+    <loc>https://hailiang-wang.github.io/blogtemplate/2021/05/12/foobar/</loc>
     
     <lastmod>2025-02-08</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blogtemplate.github.io/2021/05/12/hello/</loc>
+    <loc>https://hailiang-wang.github.io/blogtemplate/2021/05/12/hello/</loc>
     
     <lastmod>2025-02-08</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>https://blogtemplate.github.io/</loc>
+    <loc>https://hailiang-wang.github.io/blogtemplate</loc>
     <lastmod>2025-02-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -47,14 +47,14 @@
 
   
   <url>
-    <loc>https://blogtemplate.github.io/tags/Open/</loc>
+    <loc>https://hailiang-wang.github.io/blogtemplate/tags/Open/</loc>
     <lastmod>2025-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blogtemplate.github.io/tags/Diary/</loc>
+    <loc>https://hailiang-wang.github.io/blogtemplate/tags/Diary/</loc>
     <lastmod>2025-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -63,7 +63,7 @@
 
   
   <url>
-    <loc>https://blogtemplate.github.io/categories/notes/</loc>
+    <loc>https://hailiang-wang.github.io/blogtemplate/categories/notes/</loc>
     <lastmod>2025-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
