@@ -80,6 +80,10 @@ More about GitHub Token, [link](https://docs.github.com/en/actions/security-for-
 
 Turn Workflow job for your repo.
 
+## Others
+
+* [markdown2word-doc-template](https://github.com/hailiang-wang/markdown2word-doc-template)
+
 
 ## License
 
