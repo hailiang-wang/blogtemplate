@@ -33,8 +33,13 @@ cp -rf tags _build/tags
 
 
 # fix attachement paths
-cd _build/
+cd $baseDir/..
+cd _build/_posts
 
+for x in `ls`; do
+    echo "[fix-media-path] Processing" $x
+    sed -i "s/\](..\/media/](media/g" $x
+done
 
 # build
 cd $baseDir/..

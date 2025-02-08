@@ -41,6 +41,10 @@ Enable all plugins.
 
 ![Alt text](./assets/screenshot_20250208123950.png)
 
+Note -
+
+* No spaces are allowed in note file name
+
 ## Build and serve locally
 
 ### Build
@@ -103,7 +107,11 @@ Now, you need to change the `_config.yml` to fix the URL path issue, for example
 
 ![Alt text](./assets/screenshot_20250208133139.png)
 
-Change `url` to `https://hailiang-wang.github.io/blogtemplate/`, then push to GitHub repo again, after the Actions Workflow is done, the blog website.
+Change `url` to `https://hailiang-wang.github.io/blogtemplate/`, then push to GitHub repo again, after the Actions Workflow is done, the blog website would look like this -
+
+![Alt text](./assets/screenshot_20250208133636.png)
+
+Well done.
 
 ## Others
 
