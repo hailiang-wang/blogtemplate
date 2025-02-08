@@ -113,6 +113,25 @@ Change `url` to `https://hailiang-wang.github.io/blogtemplate/`, then push to Gi
 
 Well done.
 
+### Feeds and sitemap links
+
+* Feeds URL submitted to RSS Readers
+
+```
+YOUR_BLOG_URL/atom
+```
+
+e.g. https://hailiang-wang.github.io/blogtemplate/atom
+
+* Sitemap URL submitted to Searching Engine
+
+```
+YOUR_BLOG_URL/sitemap.xml
+```
+
+e.g. https://hailiang-wang.github.io/blogtemplate/sitemap.xml
+
+
 ## Others
 
 * [markdown2word-doc-template](https://github.com/hailiang-wang/markdown2word-doc-template)
