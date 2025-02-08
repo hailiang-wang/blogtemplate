@@ -2,6 +2,22 @@
 
 Host blogs.
 
+# Add note with Obsidian
+
+> ROOT_DIR, root dir, path cloned for BlogTemplate.
+
+1. Install Obsidian
+
+2. Copy obsidian vault
+
+```
+cd $ROOT_DIR
+cp -rf assets/_obsidian .obsidian
+```
+
+3. Open root dir as vault in Obsidian
+
+
 # Build and serve
 
 ```
