@@ -77,8 +77,11 @@ After pushed updates into GitHub, GitHub would fire publish jobs with your confi
 
 More about GitHub Token, [link](https://docs.github.com/en/actions/security-for-github-actions/security-guides/automatic-token-authentication#using-the-github_token-in-a-workflow).
 
-
 Turn Workflow job for your repo.
+
+* Error:  fatal: unable to access 'https://github.com/xxx/blogtemplate.git/': The requested URL returned error: 403
+
+
 
 ## Others
 
