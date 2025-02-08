@@ -77,11 +77,33 @@ After pushed updates into GitHub, GitHub would fire publish jobs with your confi
 
 More about GitHub Token, [link](https://docs.github.com/en/actions/security-for-github-actions/security-guides/automatic-token-authentication#using-the-github_token-in-a-workflow).
 
-Turn Workflow job for your repo.
+If working properly, the actions are executed with every git push.
 
-* Error:  fatal: unable to access 'https://github.com/xxx/blogtemplate.git/': The requested URL returned error: 403
+https://github.com/xxxx/blogtemplate/actions
 
+![Alt text](./assets/screenshot_20250208132548.png)
 
+The files under `gh-pages` are updated as well.
+
+![Alt text](./assets/screenshot_20250208132633.png)
+
+Set GitHub Page service, choose deploy from a branch.
+
+![Alt text](./assets/screenshot_20250208132737.png)
+
+After saving the options, refresh the page after two minutes or so, you would get the deployment result.
+
+![Alt text](./assets/screenshot_20250208132856.png)
+
+Now, visit and share your github page blog, you may see page like this -
+
+![Alt text](./assets/screenshot_20250208133341.png)
+
+Now, you need to change the `_config.yml` to fix the URL path issue, for example, you get your blog URL as https://hailiang-wang.github.io/blogtemplate/, navigate to `_config.yml` in VSCode.
+
+![Alt text](./assets/screenshot_20250208133139.png)
+
+Change `url` to `https://hailiang-wang.github.io/blogtemplate/`, then push to GitHub repo again, after the Actions Workflow is done, the blog website.
 
 ## Others
 
