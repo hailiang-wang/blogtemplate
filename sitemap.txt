@@ -5,7 +5,7 @@ https://hailiang-wang.github.io/blogtemplate/tags/index.html
 https://hailiang-wang.github.io/blogtemplate/categories/index.html
 https://hailiang-wang.github.io/blogtemplate
 https://hailiang-wang.github.io/blogtemplate/tags/Open/
-https://hailiang-wang.github.io/blogtemplate/tags/Tech/
 https://hailiang-wang.github.io/blogtemplate/tags/Diary/
+https://hailiang-wang.github.io/blogtemplate/tags/Tech/
 https://hailiang-wang.github.io/blogtemplate/categories/notes/
 
