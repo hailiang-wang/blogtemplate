@@ -4,7 +4,7 @@
   <url>
     <loc>https://hailiang-wang.github.io/blogtemplate/2021/05/11/hello/</loc>
     
-    <lastmod>2025-02-08</lastmod>
+    <lastmod>2025-02-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://hailiang-wang.github.io/blogtemplate/2021/05/11/foobar/</loc>
     
-    <lastmod>2025-02-08</lastmod>
+    <lastmod>2025-02-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hailiang-wang.github.io/blogtemplate/2022/05/11/foo2_foo1/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
   <url>
     <loc>https://hailiang-wang.github.io/blogtemplate/tags/index.html</loc>
     
-    <lastmod>2025-02-08</lastmod>
+    <lastmod>2025-02-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +40,7 @@
   <url>
     <loc>https://hailiang-wang.github.io/blogtemplate/categories/index.html</loc>
     
-    <lastmod>2025-02-08</lastmod>
+    <lastmod>2025-02-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +49,7 @@
 
   <url>
     <loc>https://hailiang-wang.github.io/blogtemplate</loc>
-    <lastmod>2025-02-08</lastmod>
+    <lastmod>2025-02-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,14 +57,21 @@
   
   <url>
     <loc>https://hailiang-wang.github.io/blogtemplate/tags/Open/</loc>
-    <lastmod>2025-02-08</lastmod>
+    <lastmod>2025-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hailiang-wang.github.io/blogtemplate/tags/Diary/</loc>
-    <lastmod>2025-02-08</lastmod>
+    <lastmod>2025-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hailiang-wang.github.io/blogtemplate/tags/Tech/</loc>
+    <lastmod>2025-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -64,7 +80,7 @@
   
   <url>
     <loc>https://hailiang-wang.github.io/blogtemplate/categories/notes/</loc>
-    <lastmod>2025-02-08</lastmod>
+    <lastmod>2025-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

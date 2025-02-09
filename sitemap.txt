@@ -1,9 +1,11 @@
 https://hailiang-wang.github.io/blogtemplate/2021/05/11/hello/
 https://hailiang-wang.github.io/blogtemplate/2021/05/11/foobar/
+https://hailiang-wang.github.io/blogtemplate/2022/05/11/foo2_foo1/
 https://hailiang-wang.github.io/blogtemplate/tags/index.html
 https://hailiang-wang.github.io/blogtemplate/categories/index.html
 https://hailiang-wang.github.io/blogtemplate
 https://hailiang-wang.github.io/blogtemplate/tags/Open/
 https://hailiang-wang.github.io/blogtemplate/tags/Diary/
+https://hailiang-wang.github.io/blogtemplate/tags/Tech/
 https://hailiang-wang.github.io/blogtemplate/categories/notes/
 
