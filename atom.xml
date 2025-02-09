@@ -6,7 +6,7 @@
   <link href="https://hailiang-wang.github.io/blogtemplate/atom.xml" rel="self"/>
   
   <link href="https://hailiang-wang.github.io/blogtemplate/"/>
-  <updated>2025-02-09T02:14:00.583Z</updated>
+  <updated>2025-02-09T02:17:17.403Z</updated>
   <id>https://hailiang-wang.github.io/blogtemplate/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://hailiang-wang.github.io/blogtemplate/2022/05/11/foo2_foo1/"/>
     <id>https://hailiang-wang.github.io/blogtemplate/2022/05/11/foo2_foo1/</id>
     <published>2022-05-11T16:00:00.000Z</published>
-    <updated>2025-02-09T02:14:00.583Z</updated>
+    <updated>2025-02-09T02:17:17.403Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="大标题1"><a href="#大标题1" class="headerlink" title="大标题1"></a>大标题1</h1><h2 id="1-1-文章"><a href="#1-1-文章" class="headerlink" title="1.1 文章"></a>1.1 文章</h2><p>foo11</p><p><img src="/blogtemplate/media/assets/screenshot_20250209101129.png"></p><h1 id="段落2"><a href="#段落2" class="headerlink" title="段落2"></a>段落2</h1><h2 id="1-2-文章"><a href="#1-2-文章" class="headerlink" title="1.2 文章"></a>1.2 文章</h2><p>bar2</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sooo</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="大标题1"><a href="#大标题1" class="headerlink" title="大标题1"></a>大标题1</h1><h2 id="1-1-文章"><a href="#1-1-文章" class="headerlink" title="1.1 文章"></a>1.1 文章</h2><p>foo11</p><hr><p><img src="/blogtemplate/media/assets/screenshot_20250209101129.png"></p><h1 id="段落2"><a href="#段落2" class="headerlink" title="段落2"></a>段落2</h1><h2 id="1-2-文章"><a href="#1-2-文章" class="headerlink" title="1.2 文章"></a>1.2 文章</h2><p>bar2</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sooo</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
@@ -46,20 +46,20 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://hailiang-wang.github.io/blogtemplate/2021/05/11/hello/"/>
-    <id>https://hailiang-wang.github.io/blogtemplate/2021/05/11/hello/</id>
+    <title>Foo Bar</title>
+    <link href="https://hailiang-wang.github.io/blogtemplate/2021/05/11/foobar/"/>
+    <id>https://hailiang-wang.github.io/blogtemplate/2021/05/11/foobar/</id>
     <published>2021-05-11T16:00:00.000Z</published>
-    <updated>2025-02-09T02:14:00.586Z</updated>
+    <updated>2025-02-09T02:17:17.405Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="HelloWorld"><a href="#HelloWorld" class="headerlink" title="HelloWorld"></a>HelloWorld</h2><p>Hello</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="hello-foo"><a href="#hello-foo" class="headerlink" title="hello foo"></a>hello foo</h2><p><img src="/blogtemplate/media/assets/screenshot_20250208121241.png"></p><p><img src="/blogtemplate/media/assets/screenshot_20250208125746.png"></p><p><img src="/blogtemplate/media/assets/screenshot_20250208140647.png"></p><h2 id="header-2"><a href="#header-2" class="headerlink" title="header 2"></a>header 2</h2><h3 id="header-3"><a href="#header-3" class="headerlink" title="header 3"></a>header 3</h3><p>some code</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">import os</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;HelloWorld&quot;&gt;&lt;a href=&quot;#HelloWorld&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;hello-foo&quot;&gt;&lt;a href=&quot;#hello-foo&quot; class=&quot;headerlink&quot; title=&quot;hello foo&quot;&gt;&lt;/a&gt;hello foo&lt;/h2&gt;&lt;p&gt;&lt;img</summary>
         
       
     
@@ -75,20 +75,20 @@
   </entry>
   
   <entry>
-    <title>Foo Bar</title>
-    <link href="https://hailiang-wang.github.io/blogtemplate/2021/05/11/foobar/"/>
-    <id>https://hailiang-wang.github.io/blogtemplate/2021/05/11/foobar/</id>
+    <title>Hello World</title>
+    <link href="https://hailiang-wang.github.io/blogtemplate/2021/05/11/hello/"/>
+    <id>https://hailiang-wang.github.io/blogtemplate/2021/05/11/hello/</id>
     <published>2021-05-11T16:00:00.000Z</published>
-    <updated>2025-02-09T02:14:00.585Z</updated>
+    <updated>2025-02-09T02:17:17.406Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="hello-foo"><a href="#hello-foo" class="headerlink" title="hello foo"></a>hello foo</h2><p><img src="/blogtemplate/media/assets/screenshot_20250208121241.png"></p><p><img src="/blogtemplate/media/assets/screenshot_20250208125746.png"></p><p><img src="/blogtemplate/media/assets/screenshot_20250208140647.png"></p><h2 id="header-2"><a href="#header-2" class="headerlink" title="header 2"></a>header 2</h2><h3 id="header-3"><a href="#header-3" class="headerlink" title="header 3"></a>header 3</h3><p>some code</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">import os</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h2 id="HelloWorld"><a href="#HelloWorld" class="headerlink" title="HelloWorld"></a>HelloWorld</h2><p>Hello</p>]]></content>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;hello-foo&quot;&gt;&lt;a href=&quot;#hello-foo&quot; class=&quot;headerlink&quot; title=&quot;hello foo&quot;&gt;&lt;/a&gt;hello foo&lt;/h2&gt;&lt;p&gt;&lt;img</summary>
+    <summary type="html">&lt;h2 id=&quot;HelloWorld&quot;&gt;&lt;a href=&quot;#HelloWorld&quot; class=&quot;headerlink&quot;</summary>
         
       
     
