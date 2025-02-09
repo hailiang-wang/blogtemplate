@@ -14,6 +14,8 @@ tags:
 
 使用 LaTex 写数学公式
 
+<!-- more -->
+
 foo11 $z = \frac{x}{y}$
 
 
