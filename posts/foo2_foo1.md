@@ -12,9 +12,12 @@ tags:
 
 ## 1.1 文章
 
-foo11
+使用 LaTex 写数学公式
 
---
+foo11 $z = \frac{x}{y}$
+
+
+$$ f'(x)  = \frac{\partial y}{\partial x}$$ 
 
 ![](../media/assets/screenshot_20250209101129.png)
 
